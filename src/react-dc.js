@@ -4,5 +4,7 @@ import RowChart from './charts/row-chart'
 import PieChart from './charts/pie-chart'
 import ScatterPlot from './charts/scatter-plot'
 import SeriesChart from './charts/series-chart'
-
-export {BarChart, LineChart, PieChart, RowChart, ScatterPlot, SeriesChart}
+import NumberDisplay from './charts/numberdisplay-chart'
+import SelectMenu from './charts/selectmenu-chart'
+import DataTable from './charts/datatable-chart'
+export {BarChart, LineChart, PieChart, RowChart, ScatterPlot, SeriesChart, NumberDisplay, SelectMenu, DataTable}
