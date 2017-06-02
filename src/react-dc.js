@@ -7,4 +7,8 @@ import SeriesChart from './charts/series-chart'
 import NumberDisplay from './charts/numberdisplay-chart'
 import SelectMenu from './charts/selectmenu-chart'
 import DataTable from './charts/datatable-chart'
-export {BarChart, LineChart, PieChart, RowChart, ScatterPlot, SeriesChart, NumberDisplay, SelectMenu, DataTable}
+import DataGrid from './charts/datatable-chart'
+import HeatMap from './charts/heatmap-chart'
+import BoxPlotChart from './charts/boxplot-chart'
+import BubbleChart from './charts/bubble-chart'
+export {BarChart, LineChart, PieChart, RowChart, ScatterPlot, SeriesChart, NumberDisplay, SelectMenu, DataTable, DataGrid, HeatMap, BoxPlotChart, BubbleChart}
